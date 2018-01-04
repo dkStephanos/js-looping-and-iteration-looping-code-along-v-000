@@ -11,7 +11,7 @@ function printBadges(array) {
 function tailsNeverFails() {
   let counter = 0;
 
-  while(Math.round(Math.random()) > 1) {
+  while(Math.round(Math.random()) > 0) {
     counter++;
   }
 
