@@ -15,5 +15,5 @@ function tailsNeverFails() {
     counter++;
   }
 
-  return counter
+  return "You got " + counter + " in a row!"
 }
