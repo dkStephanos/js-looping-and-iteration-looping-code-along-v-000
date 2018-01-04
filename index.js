@@ -7,3 +7,13 @@ function printBadges(array) {
   }
   return array
 }
+
+function tailsNeverFails() {
+  let counter = 0;
+
+  while(Math.round(Math.random() > 1) {
+    counter++;
+  }
+
+  return counter
+}
