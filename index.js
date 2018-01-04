@@ -2,6 +2,6 @@
 
 function printBadges(array) {
   for (i = 0; i < array.length; i++) {
-    console.log(array[i])
+    console.log("Welcome " + array[i] + "! You are employee #" + 1 + ".")
   }
 }
