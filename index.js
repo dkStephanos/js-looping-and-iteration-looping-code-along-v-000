@@ -1,4 +1,5 @@
 // Code your solutions in this file
+names = ["Abel", "Ari", "Koi"]
 
 function printBadges(array) {
   for (i = 0; i < array.length; i++) {
